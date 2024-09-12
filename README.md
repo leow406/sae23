@@ -32,7 +32,7 @@ https://github.com/etudiant-iut/frontend2
 
 ``` nodemon server```
 
-## Pour ajouter Express à votre projet, exécutez la commande suivante dans un terminal à partir de votre dossier backend :
+Pour ajouter Express à votre projet, exécutez la commande suivante dans un terminal à partir de votre dossier backend :
 
 ```npm install express```
 
